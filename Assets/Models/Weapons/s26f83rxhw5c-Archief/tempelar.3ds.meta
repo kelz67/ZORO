@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: db5f93774eaa1f74c969c0f5eec0ab7f
+timeCreated: 1518509810
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: block
+    100002: block.001
+    100004: cross
+    100006: cross.001
+    100008: cross.002
+    100010: Cylinder
+    100012: landscape-mo.000
+    100014: nagels
+    100016: nagels.001
+    100018: Plane
+    100020: //RootNode
+    400000: block
+    400002: block.001
+    400004: cross
+    400006: cross.001
+    400008: cross.002
+    400010: Cylinder
+    400012: landscape-mo.000
+    400014: nagels
+    400016: nagels.001
+    400018: Plane
+    400020: //RootNode
+    2100000: block_white
+    2100002: block_out
+    2100004: nagels
+    2100006: plane
+    2100008: sword_shine
+    2100010: sword
+    2100012: cross
+    2100014: sword_gold
+    2100016: landscape-mo
+    2300000: block
+    2300002: block.001
+    2300004: cross
+    2300006: cross.001
+    2300008: cross.002
+    2300010: Cylinder
+    2300012: landscape-mo.000
+    2300014: nagels
+    2300016: nagels.001
+    2300018: Plane
+    3300000: block
+    3300002: block.001
+    3300004: cross
+    3300006: cross.001
+    3300008: cross.002
+    3300010: Cylinder
+    3300012: landscape-mo.000
+    3300014: nagels
+    3300016: nagels.001
+    3300018: Plane
+    4300000: block.001
+    4300002: cross.002
+    4300004: nagels.001
+    4300006: cross.001
+    4300008: Cylinder
+    4300010: landscape-mo.000
+    4300012: Plane
+    4300014: nagels
+    4300016: cross
+    4300018: block
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
