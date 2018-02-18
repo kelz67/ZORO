@@ -5,12 +5,14 @@ using UnityEngine;
 public class ShowBridge : MonoBehaviour 
 
 {
-	public GameObject bridge;
+	public Animation anim;
+	//public GameObject bridge;
 	public int enemiesToKill;
 
 	// Use this for initialization
 	void Start () {
-		bridge.gameObject.SetActive(false);
+		//bridge.gameObject.SetActive(false);
+
 	}
 	
 	// Update is called once per frame
@@ -22,9 +24,13 @@ public class ShowBridge : MonoBehaviour
 	{
 		if (other.tag == "Player") {
 			if (InventoKill.Refrence.KilledEnemies >= enemiesToKill ) {
+				anim = FindObjectOfType<Animation>();
 				//&& InventoKill.Refrence.haveKey
 				//active the bridge
-				bridge.gameObject.SetActive (true);
+				//bridge.gameObject.SetActive (true);
+				anim.Play(anim.clip.name);
+				//anim.Stop ();
+
 			}
 		}
 		
